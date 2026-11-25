@@ -1,0 +1,1 @@
+Prints a list of all unique codeowners in Kibana's CODEOWNERS file.

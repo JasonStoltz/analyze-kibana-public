@@ -1,0 +1,6 @@
+results.csv
+/.tools/
+.DS_Store
+.env
+.env.*
+/text-of-filenames-to-codeowner/tmp.txt
